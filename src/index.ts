@@ -39,7 +39,7 @@ async function main() {
 
 main()
   .then(() => {
-    console.log("Finished successfully   kiopp")
+    console.log("Finished successfully   kio")
     process.exit(0)
   })
   .catch((error) => {
